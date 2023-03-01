@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @coutabhi<br>👀 I’m interested in   🤔<br>🌱 I’m currently learning python🐍<br>love ❤ chai 🍵 with a coding problems.<br>
+👋 Hi, I’m @coutabhi<br>
 beginner in git👨🏻‍💻
 
 
