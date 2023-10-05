@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, folks!  https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif Myself Abhishek Yadav. I am hard-working person who loves to write clean and scalable code. Using latest tech stack. Always hungry for learning new things and have good grasp of Computer Science fundamentals such as Operating system, DBMS, Data structures and Algorithms.
+Hello, folks!  (https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif) Myself Abhishek Yadav. I am hard-working person who loves to write clean and scalable code. Using latest tech stack. Always hungry for learning new things and have good grasp of Computer Science fundamentals such as Operating system, DBMS, Data structures and Algorithms.
 
 
 ## 🌐 Socials:
